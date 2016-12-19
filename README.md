@@ -43,4 +43,4 @@ requirePing.ping.Ping(ip,function (data,err)
 ```
 
 
-this library is under development and currently works on windows
+this library is under development and currently works on windows and Linux
